@@ -1,0 +1,34 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Mustafa_oguz_pcb.PrjPcb]
+   Generated File[Mustafa_oguz_pcb.GTO]
+   Generated File[Mustafa_oguz_pcb.GTP]
+   Generated File[Mustafa_oguz_pcb.GTS]
+   Generated File[Mustafa_oguz_pcb.GTL]
+   Generated File[Mustafa_oguz_pcb.GP1]
+   Generated File[Mustafa_oguz_pcb.GP2]
+   Generated File[Mustafa_oguz_pcb.GBL]
+   Generated File[Mustafa_oguz_pcb.GBS]
+   Generated File[Mustafa_oguz_pcb.GBP]
+   Generated File[Mustafa_oguz_pcb.GBO]
+   Generated File[Mustafa_oguz_pcb.GM1]
+   Generated File[Mustafa_oguz_pcb.GKO]
+   Generated File[Mustafa_oguz_pcb.GD1]
+   Generated File[Mustafa_oguz_pcb.GD2]
+   Generated File[Mustafa_oguz_pcb.GD3]
+   Generated File[Mustafa_oguz_pcb.GD4]
+   Generated File[Mustafa_oguz_pcb.GD5]
+   Generated File[Mustafa_oguz_pcb.GG1]
+   Generated File[Mustafa_oguz_pcb.GG2]
+   Generated File[Mustafa_oguz_pcb.GG3]
+   Generated File[Mustafa_oguz_pcb.GG4]
+   Generated File[Mustafa_oguz_pcb.GG5]
+   Generated File[Mustafa_oguz_pcb.GM]
+   Generated File[Mustafa_oguz_pcb.EXTREP]
+   Generated File[Mustafa_oguz_pcb.REP]
+
+
+Files Generated   : 25
+Documents Printed : 0
+
+Finished Output Generation At 20:58:52 On 13.04.2024

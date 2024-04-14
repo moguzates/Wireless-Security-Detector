@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Mustafa\Desktop\EEM\ALTIUM DESIGNER\PCB BOWTIE\Mustafa_oguz_pcb\Mustafa_oguz_pcb.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=mustafa_oguz_pcb-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=mustafa_oguz_pcb-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl
